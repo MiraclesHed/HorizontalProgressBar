@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--HorizontalProgressBar start-->
+    <attr name="backgroundColor" format="color"></attr>
+    <attr name="progressColor" format="color"></attr>
+    <attr name="maxProgress" format="integer"></attr>
+    <attr name="progress" format="integer"></attr>
+    <attr name="animDuration" format="integer"></attr>
+
+    <declare-styleable name="HorizontalProgressBar">
+        <attr name="backgroundColor"></attr>
+        <attr name="progressColor"></attr>
+        <attr name="maxProgress"></attr>
+        <attr name="progress"></attr>
+        <attr name="animDuration"></attr>
+    </declare-styleable>
+    <!--HorizontalProgressBar end-->
+</resources>
