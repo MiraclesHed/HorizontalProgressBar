@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="HorizontalProgressBar-1.0">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.miracleshed/HorizontalProgressBar/1.0/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.miracleshed/HorizontalProgressBar/1.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.miracleshed/HorizontalProgressBar/1.0/24b56c3b9c53576f3d25c1abd0221e666923bd06/HorizontalProgressBar-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
