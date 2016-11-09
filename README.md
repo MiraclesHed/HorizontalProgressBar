@@ -1,21 +1,21 @@
 # HorizontalProgressBar
 
-##### ?????????
+##### 一个带动画效果的横向进度条
 ###### A horizontal progressbar with animation for Android
 
-##### ??
+##### 导入
 `compile 'com.miracleshed:HorizontalProgressBar:1.0'`
 
-##### ??
-- `backgroundColor` ???
-- `progressColor` ?????
-- `maxProgress` ?????
-- `progress` ?????
-- `animDuration` ????
+##### 属性
+- `backgroundColor` 背景颜色
+- `progressColor` 进度颜色
+- `maxProgress` 最大进度值
+- `progress` 当前进度值
+- `animDuration` 动画时长
 
-##### ??
-- `setProgress(float progress)` ??????
-- ???...
+##### 方法
+- `setProgress(float progress)` 设置当前进度值
+- ...
 
 ##### XML
 ```
