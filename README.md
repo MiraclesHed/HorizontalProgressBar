@@ -3,6 +3,9 @@
 ##### 一个带动画效果的横向进度条
 ###### A horizontal progressbar with animation for Android
 
+##### 演示
+![](https://raw.githubusercontent.com/MiraclesHed/HorizontalProgressBar/master/gif/horizontalprogressbar.gif)
+
 ##### 导入
 `compile 'com.miracleshed:HorizontalProgressBar:1.0'`
 
